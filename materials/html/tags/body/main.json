@@ -15,10 +15,12 @@
     "content_model": "Элемент head, за которым следует элемент body.",
     "content_attributes:": {
         "global_attributes": true,
-        "custom_attributes": {
-            "manufest" : {
-                "description": "Манифест кэша приложений"
-            }
+        "custom_attributes": [
+                {
+                    "name": "manifest",
+                    "description": "Манифест кэша приложений"
+                }
+            ]
         }
     },
     "syntax": [
