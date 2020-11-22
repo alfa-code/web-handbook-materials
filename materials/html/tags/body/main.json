@@ -16,12 +16,11 @@
     "content_attributes:": {
         "global_attributes": true,
         "custom_attributes": [
-                {
-                    "name": "manifest",
-                    "description": "Манифест кэша приложений"
-                }
-            ]
-        }
+            {
+                "name": "manifest",
+                "description": "Манифест кэша приложений"
+            }
+        ]
     },
     "syntax": [
         "<html>",
