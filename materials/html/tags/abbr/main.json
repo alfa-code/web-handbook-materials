@@ -1,0 +1,26 @@
+{
+    "tagName": "",
+    "categories": [
+        "flow content",
+        "phrasing content",
+        "palpable content"
+    ],
+    "tag_omission": [
+        "Ни один тег нельзя пропустить."
+    ],
+    "description": [
+        "Элемент abbr представляет собой аббревиатуру или акроним, необязательно с его расшифровкой.",
+        "Атрибут title может использоваться для расширения аббревиатуры. Атрибут, если он указан, должен содержать расшифровку аббревиатуры и ничего больше."
+    ],
+    "content_model": "---",
+    "content_attributes": {
+        "global_attributes": true,
+        "custom_attributes": [
+            {
+                "name": "title",
+                "description": "Глобальный атрибут title имеет особую семантику"
+            }
+        ]
+    },
+    "example": false
+}
