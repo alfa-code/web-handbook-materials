@@ -1,83 +1,100 @@
 {
     "tagName": "body",
-    "categories": ["sectioning root"],
-    "tag_omission": [
-        "Начальный тег элемента body может быть опущен, если элемент пустой или если первое, что внутри элемента body не является пробелом ASCII или комментарием, кроме случаев, когда первое, что внутри элемента body - это теги meta, link, script, style, или template",
-        "Конечный тег элемента body может быть опущен, если за элементом body сразу не следует комментарий."
-    ],
-    "description": [
-        "Элемент body представляет содержимое веб страницы (документ / document).",
-        "В документе может быть только один элемент body"
-    ],
-    "content_model": "Контент потока.",
-    "content_attributes": {
-        "global_attributes": true,
-        "custom_attributes": [
-            {
-                "name": "onafterprint",
-                "description": ""
-            },
-            {
-                "name": "onbeforeprint",
-                "description": ""
-            },
-            {
-                "name": "onbeforeunload",
-                "description": ""
-            },
-            {
-                "name": "onhashchange",
-                "description": ""
-            },
-            {
-                "name": "onlanguagechange",
-                "description": ""
-            },
-            {
-                "name": "onmessage",
-                "description": ""
-            },
-            {
-                "name": "onmessageerror",
-                "description": ""
-            },
-            {
-                "name": "onoffline",
-                "description": ""
-            },
-            {
-                "name": "ononline",
-                "description": ""
-            },
-            {
-                "name": "onpagehide",
-                "description": ""
-            },
-            {
-                "name": "onpageshow",
-                "description": ""
-            },
-            {
-                "name": "onpopstate",
-                "description": ""
-            },
-            {
-                "name": "onrejectionhandled",
-                "description": ""
-            },
-            {
-                "name": "onstorage",
-                "description": ""
-            },
-            {
-                "name": "onunhandledrejection",
-                "description": ""
-            },
-            {
-                "name": "onunload",
-                "description": ""
+    "structure": [
+        {
+            "type": "categories",
+            "value": ["sectioning root"]
+        },
+        {
+            "type": "tag_omission",
+            "value": [
+                "Начальный тег элемента body может быть опущен, если элемент пустой или если первое, что внутри элемента body не является пробелом ASCII или комментарием, кроме случаев, когда первое, что внутри элемента body - это теги meta, link, script, style, или template",
+                "Конечный тег элемента body может быть опущен, если за элементом body сразу не следует комментарий."
+            ]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент body представляет содержимое веб страницы (документ / document).",
+                "В документе может быть только один элемент body"
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "Контент потока."
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "onafterprint",
+                        "description": ""
+                    },
+                    {
+                        "name": "onbeforeprint",
+                        "description": ""
+                    },
+                    {
+                        "name": "onbeforeunload",
+                        "description": ""
+                    },
+                    {
+                        "name": "onhashchange",
+                        "description": ""
+                    },
+                    {
+                        "name": "onlanguagechange",
+                        "description": ""
+                    },
+                    {
+                        "name": "onmessage",
+                        "description": ""
+                    },
+                    {
+                        "name": "onmessageerror",
+                        "description": ""
+                    },
+                    {
+                        "name": "onoffline",
+                        "description": ""
+                    },
+                    {
+                        "name": "ononline",
+                        "description": ""
+                    },
+                    {
+                        "name": "onpagehide",
+                        "description": ""
+                    },
+                    {
+                        "name": "onpageshow",
+                        "description": ""
+                    },
+                    {
+                        "name": "onpopstate",
+                        "description": ""
+                    },
+                    {
+                        "name": "onrejectionhandled",
+                        "description": ""
+                    },
+                    {
+                        "name": "onstorage",
+                        "description": ""
+                    },
+                    {
+                        "name": "onunhandledrejection",
+                        "description": ""
+                    },
+                    {
+                        "name": "onunload",
+                        "description": ""
+                    }
+                ]
             }
-        ]
-    },
+        }
+    ],
     "example": false
 }
