@@ -1,0 +1,13 @@
+{
+    "tagName": "nav",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content",
+                "sectioning content",
+                "palpable content"
+            ]
+        }
+    ]
+}
