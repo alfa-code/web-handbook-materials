@@ -1,22 +1,40 @@
 {
     "tagName": "article",
-    "categories": [
-        "flow content",
-        "sectioning content",
-        "palpable content"
-    ],
-    "tag_omission": [
-        "Ни один тег нельзя пропустить."
-    ],
-    "description": [
-        "Элемент article представляет собой самостоятельную часть документа и может использоваться повторно.",
-        "Это может быть блок сообщения на форуме, статья в журнале, запись в блоге, пользовательский комментарий и так далее.",
-        "Чаще всего используется в прямом смысле, для обозначения блока содержащего статью."
-    ],
-    "content_model": "flow content",
-    "content_attributes": {
-        "global_attributes": true,
-        "custom_attributes": []
-    },
-    "example": false
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content",
+                "sectioning content",
+                "palpable content"
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Ни один тег нельзя пропустить."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент article представляет собой самостоятельную часть документа и может использоваться повторно.",
+                "Это может быть блок сообщения на форуме, статья в журнале, запись в блоге, пользовательский комментарий и так далее.",
+                "Чаще всего используется в прямом смысле, для обозначения блока содержащего статью."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "flow content"
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": []
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
 }

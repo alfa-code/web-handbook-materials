@@ -1,21 +1,37 @@
 {
     "tagName": "",
-    "categories": [""],
-    "tag_omission": [
-        ""
-    ],
-    "description": [
-        ""
-    ],
-    "content_model": "---",
-    "content_attributes": {
-        "global_attributes": false,
-        "custom_attributes": [
-            {
-                "name": "---",
-                "description": "---"
+    "structure": [
+        {
+            "type": "categories",
+            "value": [""]
+        },
+        {
+            "type": "tag_omission",
+            "value": [""]
+        },
+        {
+            "type": "description",
+            "value": [""]
+        },
+        {
+            "type": "content_model",
+            "value": "---"
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": false,
+                "custom_attributes": [
+                    {
+                        "name": "---",
+                        "description": "---"
+                    }
+                ]
             }
-        ]
-    },
-    "example": false
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
 }

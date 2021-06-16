@@ -37,7 +37,10 @@
                     }
                 ]
             }
+        },
+        {
+            "type": "example",
+            "value": false
         }
-    ],
-    "example": false
+    ]
 }
