@@ -1,0 +1,38 @@
+{
+    "tagName": "wbr",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content",
+                "phrasing content"
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": [
+                "Без конечного тега."
+            ]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент wbr представляет собой возможность разрыва строки. Данным тегом можно определить где именно будут разрывы в слове при переносе на следующую строку."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "Не имеет"
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
