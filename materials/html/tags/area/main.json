@@ -1,0 +1,75 @@
+{
+    "tagName": "area",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "slow content",
+                "phrasing content"
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Закрывающий тег отсутствует."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент 'area' представляет собой либо гиперссылку с некоторым текстом и соответствующей областью на карте изображения (image map), либо мертвую область на карте изображения (image map).",
+                "Элемент 'area' должен иметь предка элемент 'map'."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "Отсутствует"
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "alt",
+                        "description": "Заменяющий текст для использования, когда изображения недоступны."
+                    },
+                    {
+                        "name": "coords",
+                        "description": "Координаты формы, которая будет создана на карте изображения."
+                    },
+                    {
+                        "name": "shape",
+                        "description": "Тип формы, создаваемой на карте изображения."
+                    },
+                    {
+                        "name": "href",
+                        "description": "Адрес гиперссылки"
+                    },
+                    {
+                        "name": "target",
+                        "description": "Контекст просмотра для навигации по гиперссылкам"
+                    },
+                    {
+                        "name": "download",
+                        "description": "Следует ли загружать ресурс вместо перехода к нему, и имя самого загружаемого файла."
+                    },
+                    {
+                        "name": "ping",
+                        "description": "URL-адреса для пинга."
+                    },
+                    {
+                        "name": "rel",
+                        "description": "Связь между местом в документе, содержащем гиперссылку, и целевым ресурсом."
+                    },
+                    {
+                        "name": "referrerpolicy",
+                        "description": "Политика реферера для выборок, инициированных элементо."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
