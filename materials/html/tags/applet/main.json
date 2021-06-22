@@ -1,0 +1,43 @@
+{
+    "tagName": "applet",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [""]
+        },
+        {
+            "type": "tag_omission",
+            "value": [""]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент апплет слуджит для вставки специальных прогламм написанных на языке Java. Данных элемент устарел и не поддерживается современными браузерами."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "---"
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "---",
+                        "description": "---"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        },
+        {
+            "type": "obsolete",
+            "value": true
+        }
+    ]
+}
