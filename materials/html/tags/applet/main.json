@@ -10,13 +10,7 @@
         {
             "type": "content_attributes",
             "value": {
-                "global_attributes": true,
-                "custom_attributes": [
-                    {
-                        "name": "---",
-                        "description": "---"
-                    }
-                ]
+                "global_attributes": true
             }
         },
         {
