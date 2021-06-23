@@ -1,0 +1,370 @@
+{
+    "list": [
+        {
+            "name": "a"
+        },
+        {
+            "name": "abbr"
+        },
+        {
+            "name": "acronym"
+        },
+        {
+            "name": "address"
+        },
+        {
+            "name": "applet"
+        },
+        {
+            "name": "area"
+        },
+        {
+            "name": "article"
+        },
+        {
+            "name": "aside"
+        },
+        {
+            "name": "audio"
+        },
+        {
+            "name": "b"
+        },
+        {
+            "name": "base"
+        },
+        {
+            "name": "basefont"
+        },
+        {
+            "name": "bdi"
+        },
+        {
+            "name": "bdo"
+        },
+        {
+            "name": "big"
+        },
+        {
+            "name": "blink"
+        },
+        {
+            "name": "blockquote"
+        },
+        {
+            "name": "body"
+        },
+        {
+            "name": "br"
+        },
+        {
+            "name": "button"
+        },
+        {
+            "name": "canvas"
+        },
+        {
+            "name": "caption"
+        },
+        {
+            "name": "center"
+        },
+        {
+            "name": "cite"
+        },
+        {
+            "name": "code"
+        },
+        {
+            "name": "col"
+        },
+        {
+            "name": "colgroup"
+        },
+        {
+            "name": "comment"
+        },
+        {
+            "name": "datalist"
+        },
+        {
+            "name": "dd"
+        },
+        {
+            "name": "del"
+        },
+        {
+            "name": "details"
+        },
+        {
+            "name": "dfn"
+        },
+        {
+            "name": "dialog"
+        },
+        {
+            "name": "dir"
+        },
+        {
+            "name": "div"
+        },
+        {
+            "name": "dl"
+        },
+        {
+            "name": "dt"
+        },
+        {
+            "name": "em"
+        },
+        {
+            "name": "embed"
+        },
+        {
+            "name": "fieldset"
+        },
+        {
+            "name": "figcaption"
+        },
+        {
+            "name": "figure"
+        },
+        {
+            "name": "font"
+        },
+        {
+            "name": "footer"
+        },
+        {
+            "name": "form"
+        },
+        {
+            "name": "frame"
+        },
+        {
+            "name": "frameset"
+        },
+        {
+            "name": "h1"
+        },
+        {
+            "name": "h2"
+        },
+        {
+            "name": "h3"
+        },
+        {
+            "name": "h4"
+        },
+        {
+            "name": "h5"
+        },
+        {
+            "name": "h6"
+        },
+        {
+            "name": "head"
+        },
+        {
+            "name": "header"
+        },
+        {
+            "name": "hr"
+        },
+        {
+            "name": "html"
+        },
+        {
+            "name": "i"
+        },
+        {
+            "name": "iframe"
+        },
+        {
+            "name": "img"
+        },
+        {
+            "name": "input"
+        },
+        {
+            "name": "ins"
+        },
+        {
+            "name": "kbd"
+        },
+        {
+            "name": "keygen"
+        },
+        {
+            "name": "label"
+        },
+        {
+            "name": "legend"
+        },
+        {
+            "name": "li"
+        },
+        {
+            "name": "link"
+        },
+        {
+            "name": "main"
+        },
+        {
+            "name": "map"
+        },
+        {
+            "name": "mark"
+        },
+        {
+            "name": "menu"
+        },
+        {
+            "name": "menuitem"
+        },
+        {
+            "name": "meta"
+        },
+        {
+            "name": "meter"
+        },
+        {
+            "name": "nav"
+        },
+        {
+            "name": "noframes"
+        },
+        {
+            "name": "noscript"
+        },
+        {
+            "name": "object"
+        },
+        {
+            "name": "ol"
+        },
+        {
+            "name": "optgroup"
+        },
+        {
+            "name": "option"
+        },
+        {
+            "name": "output"
+        },
+        {
+            "name": "p"
+        },
+        {
+            "name": "param"
+        },
+        {
+            "name": "pre"
+        },
+        {
+            "name": "progress"
+        },
+        {
+            "name": "q"
+        },
+        {
+            "name": "rp"
+        },
+        {
+            "name": "rt"
+        },
+        {
+            "name": "ruby"
+        },
+        {
+            "name": "s"
+        },
+        {
+            "name": "samp"
+        },
+        {
+            "name": "script"
+        },
+        {
+            "name": "section"
+        },
+        {
+            "name": "select"
+        },
+        {
+            "name": "small"
+        },
+        {
+            "name": "source"
+        },
+        {
+            "name": "span"
+        },
+        {
+            "name": "strike"
+        },
+        {
+            "name": "strong"
+        },
+        {
+            "name": "style"
+        },
+        {
+            "name": "sub"
+        },
+        {
+            "name": "summary"
+        },
+        {
+            "name": "sup"
+        },
+        {
+            "name": "table"
+        },
+        {
+            "name": "tbody"
+        },
+        {
+            "name": "td"
+        },
+        {
+            "name": "tfoot"
+        },
+        {
+            "name": "th"
+        },
+        {
+            "name": "thead"
+        },
+        {
+            "name": "time"
+        },
+        {
+            "name": "title"
+        },
+        {
+            "name": "tr"
+        },
+        {
+            "name": "track"
+        },
+        {
+            "name": "tt"
+        },
+        {
+            "name": "u"
+        },
+        {
+            "name": "ul"
+        },
+        {
+            "name": "var"
+        },
+        {
+            "name": "video"
+        },
+        {
+            "name": "wbr"
+        }
+    ]
+}
