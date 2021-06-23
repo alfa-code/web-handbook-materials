@@ -14,7 +14,8 @@
             "name": "address"
         },
         {
-            "name": "applet"
+            "name": "applet",
+            "obsolete": true
         },
         {
             "name": "area"
@@ -35,7 +36,8 @@
             "name": "base"
         },
         {
-            "name": "basefont"
+            "name": "basefont",
+            "obsolete": true
         },
         {
             "name": "bdi"
@@ -44,10 +46,12 @@
             "name": "bdo"
         },
         {
-            "name": "big"
+            "name": "big",
+            "obsolete": true
         },
         {
-            "name": "blink"
+            "name": "blink",
+            "obsolete": true
         },
         {
             "name": "blockquote"
@@ -68,7 +72,8 @@
             "name": "caption"
         },
         {
-            "name": "center"
+            "name": "center",
+            "obsolete": true
         },
         {
             "name": "cite"
@@ -104,7 +109,8 @@
             "name": "dialog"
         },
         {
-            "name": "dir"
+            "name": "dir",
+            "obsolete": true
         },
         {
             "name": "div"
@@ -131,7 +137,8 @@
             "name": "figure"
         },
         {
-            "name": "font"
+            "name": "font",
+            "obsolete": true
         },
         {
             "name": "footer"
@@ -140,10 +147,12 @@
             "name": "form"
         },
         {
-            "name": "frame"
+            "name": "frame",
+            "obsolete": true
         },
         {
-            "name": "frameset"
+            "name": "frameset",
+            "obsolete": true
         },
         {
             "name": "h1"
@@ -194,7 +203,8 @@
             "name": "kbd"
         },
         {
-            "name": "keygen"
+            "name": "keygen",
+            "obsolete": true
         },
         {
             "name": "label"
@@ -221,7 +231,8 @@
             "name": "menu"
         },
         {
-            "name": "menuitem"
+            "name": "menuitem",
+            "obsolete": true
         },
         {
             "name": "meta"
@@ -233,7 +244,8 @@
             "name": "nav"
         },
         {
-            "name": "noframes"
+            "name": "noframes",
+            "obsolete": true
         },
         {
             "name": "noscript"
@@ -302,7 +314,8 @@
             "name": "span"
         },
         {
-            "name": "strike"
+            "name": "strike",
+            "obsolete": true
         },
         {
             "name": "strong"
@@ -350,7 +363,8 @@
             "name": "track"
         },
         {
-            "name": "tt"
+            "name": "tt",
+            "obsolete": true
         },
         {
             "name": "u"
