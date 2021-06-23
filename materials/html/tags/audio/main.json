@@ -1,0 +1,67 @@
+{
+    "tagName": "audio",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content",
+                "phrasing content",
+                "embedded content"
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны"]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент представляет звук или аудиопоток."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "---"
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "src",
+                        "description": "Адрес ресурса"
+                    },
+                    {
+                        "name": "crossorigin",
+                        "description": "Как элемент обрабатывает запросы перекрестного происхождения (crossorigin requests)"
+                    },
+                    {
+                        "name": "preload",
+                        "description": "Необходимо ли предзагрузжать медиа при старте страницы"
+                    },
+                    {
+                        "name": "autoplay",
+                        "description": "Стоит ли начать воспроизведение сразу после загрузки медиа"
+                    },
+                    {
+                        "name": "loop",
+                        "description": "Нузно ли зациклить воспроизведение"
+                    },
+                    {
+                        "name": "muted",
+                        "description": "Заглушен ли меадиаресурс по умолчанию"
+                    },
+                    {
+                        "name": "controls",
+                        "description": "Отображает элементы управления"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
