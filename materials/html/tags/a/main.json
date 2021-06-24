@@ -24,6 +24,10 @@
             ]
         },
         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
             "type": "content_model",
             "value": "---"
         },
