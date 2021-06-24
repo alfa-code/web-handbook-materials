@@ -5,3 +5,7 @@
 <ExampleBox>
     Пример
 </ExampleBox>
+
+<NoteBox>
+    NoteBox
+</NoteBox>
