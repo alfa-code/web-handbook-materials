@@ -29,7 +29,3 @@
         </nav>
     </code>
 </ExampleBox>
-
-<NoteBox>
-    NoteBox
-</NoteBox>
