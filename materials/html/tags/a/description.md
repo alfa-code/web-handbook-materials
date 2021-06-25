@@ -19,14 +19,14 @@
 
     <Code>
         { `
-        <nav>
-            <ul>
-                <li> <a href="/">Home</a> </li>
-                <li> <a href="/news">News</a> </li>
-                <li> <a>Examples</a> </li>
-                <li> <a href="/legal">Legal</a> </li>
-            </ul>
-        </nav>
+<nav>
+    <ul>
+        <li> <a href="/">Home</a> </li>
+        <li> <a href="/news">News</a> </li>
+        <li> <a>Examples</a> </li>
+        <li> <a href="/legal">Legal</a> </li>
+    </ul>
+</nav>
         ` }
     </Code>
 </ExampleBox>
