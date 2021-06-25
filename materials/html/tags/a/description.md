@@ -17,16 +17,16 @@
 <ExampleBox>
     Если сайт использует согласованную панель инструментов навигации на каждой странице, то ссылка, которая обычно ведет на саму страницу, может быть размечена с помощью элемента a:
 
-    <code>
+    <Code>
         { `
         <nav>
             <ul>
-            <li> <a href="/">Home</a> </li>
-            <li> <a href="/news">News</a> </li>
-            <li> <a>Examples</a> </li>
-            <li> <a href="/legal">Legal</a> </li>
+                <li> <a href="/">Home</a> </li>
+                <li> <a href="/news">News</a> </li>
+                <li> <a>Examples</a> </li>
+                <li> <a href="/legal">Legal</a> </li>
             </ul>
         </nav>
         ` }
-    </code>
+    </Code>
 </ExampleBox>
