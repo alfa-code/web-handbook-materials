@@ -32,6 +32,10 @@
         {
             "type": "example",
             "value": false
+        },
+		{
+            "type": "fullDescription",
+            "value": true
         }
     ]
 }
