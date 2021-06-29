@@ -1,5 +1,5 @@
 <p>
-    Элемент <LE>em</LE> акцентирует внимание на своем содержании. Масштаб акцента, который испытывает тот или инй фрагмент, определяеься количеством предыдущих <LE>em</LE> элементтов. Расположение акцента меняет смысл предложения. Таким образом, данный элемент составляет важную часть контента. Эффективный путь использования ударения зависит от языка.
+    Элемент <LE>em</LE> акцентирует внимание на своем содержании. Масштаб акцента, который испытывает тот или иной фрагмент, определяеься количеством предыдущих <LE>em</LE> элементтов. Расположение акцента меняет смысл предложения. Таким образом, данный элемент составляет важную часть контента. Эффективный путь использования ударения зависит от языка.
 </p>
 
 <ExampleBox>
@@ -8,7 +8,9 @@
 
 <Code>
 {`
-<p>Cats are cute animals.</p>
+<p>
+Cats are cute animals.
+</p>
 `}
 </Code>
 
@@ -16,7 +18,9 @@
 
 <Code>
 {`
-<p><em>Cats</em> are cute animals.</p>
+<p>
+    <em>Cats</em> are cute animals.
+</p>
 `}
 </Code>
 
@@ -24,7 +28,9 @@
 
 <Code>
 {`
-<p>Cats <em>are</em> cute animals.</p>
+<p>
+    Cats <em>are</em> cute animals.
+</p>
 `}
 </Code>
 
@@ -32,7 +38,9 @@
 
 <Code>
 {`
-<p>Cats are <em>cute</em> animals.</p>
+<p>
+    Cats are <em>cute</em> animals.
+</p>
 `}
 </Code>
 
@@ -40,7 +48,9 @@
 
 <Code>
 {`
-<p>Cats are cute <em>animals</em>.</p>
+<p>
+    Cats are cute <em>animals</em>.
+</p>
 `}
 </Code>
 
@@ -48,7 +58,9 @@
 
 <Code>
 {`
-<p><em>Cats are cute animals!</em></p>
+<p>
+    <em>Cats are cute animals!</em>
+</p>
 `}
 </Code>
 
@@ -56,7 +68,9 @@
 
 <Code>
 {`
-<p><em>Cats are <em>cute</em> animals!</em></p>
+<p>
+    <em>Cats are <em>cute</em> animals!</em>
+</p>
 `}
 </Code>
 
