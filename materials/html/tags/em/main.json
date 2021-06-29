@@ -1,0 +1,43 @@
+{
+    "tagName": "em",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content",
+                "phrasing content",
+                "palpable content"
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент <LE>em</LE> акцентирует внимание на своем содержании.",
+                "Масштаб акцента, который испытывает тот или иной фрагмент, определяеься количеством предыдущих <LE>em</LE> элементтов.",
+                "Расположение акцента меняет смысл предложения. Таким образом, данный элемент составляет важную часть контента. Эффективный путь использования ударения зависит от языка."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "Фразовый контент."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
