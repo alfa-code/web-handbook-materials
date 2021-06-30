@@ -1,0 +1,43 @@
+{
+    "tagName": "cite",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content",
+                "phrasing content",
+                "palpable content"
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент <LE>cite</LE> указывает на название чего-либо (книга, статья, эссе, стихотворение, песня, сценарий, фильм, телешоу, игра, скульптура, картина, постановка и т.д.)",
+                "Этим элементом может быть выделена работа, на которую ссылаются или которая цитируется.",
+                "Может выделяться и работа, о которой упоминают вскользь."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "Фразовый контент."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
