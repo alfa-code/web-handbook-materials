@@ -1,0 +1,39 @@
+{
+    "tagName": "rt",
+    "structure": [
+        {
+            "type": "categories",
+            "value": ["отсутствуют"
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Тег в конце элемента <LE>rt</LE> не обязателен, если за <LE>rt</LE> сразу следует <LE>rt</LE> или <LE>rp</LE>, либо когда в родительском элементе больше нет содержимого."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент <LE>rt</LE> выделяет текст элемента <LE>ruby</LE> в описании.",
+                "Когда он является дочерним элементом <LE>ruby</LE>, сам по себе он ничего не представляет, но элемент <LE>ruby</LE> использует его для того, чтобы дать представлению пользователю о содержимом."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "Фразовый контент."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
