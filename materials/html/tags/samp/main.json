@@ -1,0 +1,41 @@
+{
+    "tagName": "samp",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content",
+                "phrasing content",
+                "palpable content"
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент <LE>samp</LE> представляет собой знак или подпись авторства, принадлежащий другой программе или компьютерной системе."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "Фразовый контент."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
