@@ -1,0 +1,42 @@
+{
+    "tagName": "code",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content",
+                "phrasing content",
+                "palpable content"
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент <LE>code</LE> представляет собой фрагмент компьютерного кода.",
+                "Это может быть:  XML элемент, имя файла, компьютерная программа или любая другая строка, которую компьютер распознает."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "Фразовый контент."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
