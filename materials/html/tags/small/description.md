@@ -38,10 +38,10 @@
 <Code>
 {`
 <p>
-Example Corp today announced record profits for the
-second quarter <small>(Full Disclosure: Foo News is a subsidiary of
-Example Corp)</small>, leading to speculation about a third quarter
-merger with Demo Group.
+	Example Corp today announced record profits for the
+	second quarter <small>(Full Disclosure: Foo News is a subsidiary of
+	Example Corp)</small>, leading to speculation about a third quarter
+	merger with Demo Group.
 </p>
 `}
 </Code>
