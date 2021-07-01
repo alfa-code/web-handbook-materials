@@ -17,14 +17,14 @@
 <Code>
 {`
 <dl>
- <dt>
- 	Single room
- <dd>
- 	199 € <small>breakfast included, VAT not included</small>
- <dt>
- 	Double room
- <dd>
- 	239 € <small>breakfast included, VAT not included</small>
+	<dt>
+		Single room
+	<dd>
+ 		199 € <small>breakfast included, VAT not included</small>
+ 	<dt>
+ 		Double room
+ 	<dd>
+ 		239 € <small>breakfast included, VAT not included</small>
 </dl>
 `}
 </Code>
@@ -51,20 +51,20 @@ merger with Demo Group.
 <Code>
 {`
 <aside>
- <h1>
- Example Corp
-</h1>
- <p>
- This company mostly creates small software and Web
- sites.
-</p>
- <p>
- The Example Corp company mission is "To provide entertainment
- and news on a sample basis".
-</p>
- <p>
- <small>Information obtained from <a href="https://example.com/about.html">example.com</a> home page.</small>
-</p>
+	<h1>
+		Example Corp
+	</h1>
+	<p>
+		This company mostly creates small software and Web
+		sites.
+	</p>
+	<p>
+		The Example Corp company mission is "To provide entertainment
+		and news on a sample basis".
+	</p>
+	<p>
+		<small>Information obtained from <a href="https://example.com/about.html">example.com</a> home page.</small>
+	</p>
 </aside>
 `}
 </Code>
@@ -78,13 +78,13 @@ merger with Demo Group.
 <Code>
 {`
 <p>
-<strong>
-<small>Continued use of this service will result in a kiss.</small>
-</strong>
+	<strong>
+		<small>
+			Continued use of this service will result in a kiss.
+		</small>
+	</strong>
 </p>
 `}
 </Code>
  
 </ExampleBox>
-
-
