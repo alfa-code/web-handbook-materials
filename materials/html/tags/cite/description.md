@@ -102,20 +102,4 @@ This is correct
 
 Элемент <LE>b</LE> может выделять имена и ключевые моменты в предложении:
 
-<p>
-And then 
-<b>
-Ian
-</b> 
-said 
-<q>
-this might be right, in a
-gossip column, maybe!
-</q>.
-</p>
-
 </ExampleBox>
-
-
-
-
