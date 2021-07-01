@@ -1,6 +1,12 @@
 # Чтобы установить свою ветку в качестве контентной выполните в консоли браузера команду:
 `window.Lockr.set('branch', 'ваше имя ветки');` например: `window.Lockr.set('branch', 'wip');`
+или верните настройки по умолчанию
+`window.Lockr.set('branch', 'ваше имя ветки');` например: `window.Lockr.set('branch', 'master');`
 
+# Чтобы установить свою проект в качестве контентного выполните в консоли браузера команду:
+`window.Lockr.set('branch', 'ваше имя ветки');` например: `window.Lockr.set('repo', 'ValorieValmont/web-handbook-materials');`
+или верните настройки по умолчанию
+`window.Lockr.set('branch', 'ваше имя ветки');` например: `window.Lockr.set('repo', 'alfa-code/web-handbook-materials');`
 # Схема описания тега
 
 ```json
