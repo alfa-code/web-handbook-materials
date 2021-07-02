@@ -1,17 +1,17 @@
 <p>
-Элемент <LE>dfn</LE> представляет собой термин или аббревиатуру. Близлежащий абзац, список или раздел к элементу <LE>dfn</LE> должен содержать его расшифровку или описание.
+	Элемент <LE>dfn</LE> представляет собой термин или аббревиатуру. Близлежащий абзац, список или раздел к элементу <LE>dfn</LE> должен содержать его расшифровку или описание.
 </p>
 
 <p>
-Определение термина: если элемент <LE>dfn</LE> имеет атрибут <LE>title</LE>, значит значение атрибута определяется термином. В случае того, когда он содержит в себе только один дочерний элемент и не содержит <LE>text</LE>, то такой дочерний элемент является <LE>abbr</LE> с атрибутом <LE>title</LE>, чем и определяется точное значение данного атрибута. В противном случае термин выдает содержимое элемента <LE>dfn</LE>
+	Определение термина: если элемент <LE>dfn</LE> имеет атрибут <LE>title</LE>, значит значение атрибута определяется термином. В случае того, когда он содержит в себе только один дочерний элемент и не содержит <LE>text</LE>, то такой дочерний элемент является <LE>abbr</LE> с атрибутом <LE>title</LE>, чем и определяется точное значение данного атрибута. В противном случае термин выдает содержимое элемента <LE>dfn</LE>
 </p> 
 
 <p>
-Если атрибут <LE>title</LE> находится в <LE>dfn</LE>, то он содержит только определяемый термин. 
+	Если атрибут <LE>title</LE> находится в <LE>dfn</LE>, то он содержит только определяемый термин. 
 </p>
 
 <p>
-Элемент <LE>a</LE>, который ссылается на <LE>dfn</LE>, представляет собой термин (он описывается при помощи <LE>dfn</LE>)
+	Элемент <LE>a</LE>, который ссылается на <LE>dfn</LE>, представляет собой термин (он описывается при помощи <LE>dfn</LE>)
 </p>
 
 <ExampleBox>
@@ -21,13 +21,13 @@
 <Code>
 {`
 <p>
-The <dfn><abbr title="Garage Door Opener">GDO</abbr></dfn>
-is a device that allows off-world teams to open the iris.
+	<dfn><abbr title="Garage Door Opener">GDO</abbr></dfn>
+	это устройство, которое позволяет исследовать радужную оболочку глаза.
 </p>
 <!-- ... later in the document: -->
 <p>
-Teal'c activated his <abbr title="Garage Door Opener">GDO</abbr>
-and so Hammond ordered the iris to be opened.
+	Тил привел в действие <abbr title="Garage Door Opener">GDO</abbr>
+	затем Хаммонд принялся исследовать радужную оболочку.
 </p>
 `}
 </Code>
@@ -37,13 +37,13 @@ and so Hammond ordered the iris to be opened.
 <Code>
 {`
 <p>
-The <dfn id=gdo><abbr title="Garage Door Opener">GDO</abbr></dfn>
-is a device that allows off-world teams to open the iris.
+	<dfn id=gdo><abbr title="Garage Door Opener">GDO</abbr></dfn>
+	это устройство, которое позволяет исследовать радужную оболочку глаза.
 </p>
 <!-- ... later in the document: -->
 <p>
-Teal'c activated his <a href=#gdo><abbr title="Garage Door Opener">GDO</abbr></a>
-and so Hammond ordered the iris to be opened.
+	Тил привел в действие <a href=#gdo><abbr title="Garage Door Opener">GDO</abbr></a>
+	затем Хаммонд принялся исследовать радужную оболочку.
 </p>
 `}
 </Code>

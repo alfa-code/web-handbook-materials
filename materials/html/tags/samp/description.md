@@ -1,5 +1,5 @@
 <p>
-Элемент <LE>samp</LE> представляет собой знак или подпись авторства, принадлежащий другой программе или компьютерной системе.
+	Элемент <LE>samp</LE> представляет собой знак или подпись авторства, принадлежащий другой программе или компьютерной системе.
 </p>
 
 <ExampleBox>
@@ -9,8 +9,7 @@
 <Code>
 {`
 <p>
-The computer said <samp>Too much cheese in tray
-two</samp> but I didn't know what that meant.
+	Компьютер напсиал <samp>Слишком много сыра на втором подносе</samp>, но я не знаю, что это значит.
 </p>
 `}
 </Code>
@@ -24,13 +23,13 @@ two</samp> but I didn't know what that meant.
 <Code>
 {`
 <pre>
-<samp>
-<span class="prompt">jdoe@mowmow:~$</span> <kbd>ssh demo.example.com</kbd>
-Last login: Tue Apr 12 09:10:17 2005 from mowmow.example.com on pts/1
-Linux demo 2.6.10-grsec+gg3+e+fhs6b+nfs+gr0501+++p3+c4a+gr2b-reslog-v6.189 #1 SMP Tue Feb 1 11:22:36 PST 2005 i686 unknown
-<span class="prompt">jdoe@demo:~$</span>
-<span class="cursor">_</span>
-</samp>
+	<samp>
+		<span class="prompt">jdoe@mowmow:~$</span> <kbd>ssh demo.example.com</kbd>
+		Last login: Tue Apr 12 09:10:17 2005 from mowmow.example.com on pts/1
+		Linux demo 2.6.10-grsec+gg3+e+fhs6b+nfs+gr0501+++p3+c4a+gr2b-reslog-v6.189 #1 SMP Tue Feb 1 11:22:36 PST 2005 i686 unknown
+		<span class="prompt">jdoe@demo:~$</span>
+		<span class="cursor">_</span>
+	</samp>
 </pre>
 `}
 </Code>
@@ -44,8 +43,8 @@ Linux demo 2.6.10-grsec+gg3+e+fhs6b+nfs+gr0501+++p3+c4a+gr2b-reslog-v6.189 #1 SM
 <Code>
 {`
 <pre>
-<code class="language-javascript">console.log(2.3 + 2.4)</code>
-<samp>4.699999999999999</samp>
+	<code class="language-javascript">console.log(2.3 + 2.4)</code>
+	<samp>4.699999999999999</samp>
 </pre>
 `}
 </Code>

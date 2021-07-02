@@ -1,13 +1,13 @@
 <p>
-Элемент <LE>small</LE> представляет собой комментарий, выполненный мелким шрифтом.
+    Элемент <LE>small</LE> представляет собой комментарий, выполненный мелким шрифтом.
 </p>
 
 <p>
-Элемент <LE>small</LE> не стоит использовать для больших частей текста, например: для абзаца, для создания списка и для разделения текста. Он предназначен для коротких текстов. К примеру, список условий на странице не подойдет для использования данного элемента т.к. текст в списке будет являться главным содержимым страницы, а не дополнением.
+    Элемент <LE>small</LE> не стоит использовать для больших частей текста, например: для абзаца, для создания списка и для разделения текста. Он предназначен для коротких текстов. К примеру, список условий на странице не подойдет для использования данного элемента т.к. текст в списке будет являться главным содержимым страницы, а не дополнением.
 </p>
 
 <p>
-<LE>small</LE> мы не можем использовать в подзагаловках, для этого подойдет элемент <LE>hgroup</LE> 
+    <LE>small</LE> мы не можем использовать в подзагаловках, для этого подойдет элемент <LE>hgroup</LE> 
 </p>
 
 <ExampleBox>
@@ -17,14 +17,14 @@
 <Code>
 {`
 <dl>
- <dt>
- 	Single room
- <dd>
- 	199 € <small>breakfast included, VAT not included</small>
- <dt>
- 	Double room
- <dd>
- 	239 € <small>breakfast included, VAT not included</small>
+    <dt>
+ 	    Комната на одного
+    <dd>
+ 	    199 € <small>завтрак включен, НДС не включен</small>
+    <dt>
+ 	    Комната на двоих
+     <dd>
+ 	    239 € <small>завтрак включен, НДС не включен</small>
 </dl>
 `}
 </Code>
@@ -38,10 +38,8 @@
 <Code>
 {`
 <p>
-Example Corp today announced record profits for the
-second quarter <small>(Full Disclosure: Foo News is a subsidiary of
-Example Corp)</small>, leading to speculation about a third quarter
-merger with Demo Group.
+	Example Corp объявили о рекордной прибыли во втором квартале <small>(Пояснение: Foo News является дочерней компанией
+	Example Corp)</small>, можно предположить, что в следующем квартале произойдет слияние с Demo Group.
 </p>
 `}
 </Code>
@@ -51,20 +49,18 @@ merger with Demo Group.
 <Code>
 {`
 <aside>
- <h1>
- Example Corp
-</h1>
- <p>
- This company mostly creates small software and Web
- sites.
-</p>
- <p>
- The Example Corp company mission is "To provide entertainment
- and news on a sample basis".
-</p>
- <p>
- <small>Information obtained from <a href="https://example.com/about.html">example.com</a> home page.</small>
-</p>
+ 	<h1>
+ 		Example Corp
+	</h1>
+ 	<p>
+ 		Эта компания приемущественно занимается компьютерами.
+	</p>
+	<p>
+	 	Миссия Example Corp - обеспечить новостную и развлекательную платформу для населения.
+	</p>
+ 	<p>
+ 		<small>Информация взята из <a href="https://example.com/about.html">example.com</a> домашней страницы.</small>
+	</p>
 </aside>
 `}
 </Code>
@@ -78,9 +74,9 @@ merger with Demo Group.
 <Code>
 {`
 <p>
-<strong>
-<small>Continued use of this service will result in a kiss.</small>
-</strong>
+	<strong>
+			<small>Продолжайте использовать данную услугу.</small>
+	</strong>
 </p>
 `}
 </Code>
