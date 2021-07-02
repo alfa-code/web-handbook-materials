@@ -1,9 +1,9 @@
 <p>
-Элемент <LE>code</LE> представляет собой фрагмент компьютерного кода. Это может быть:  XML элемент, имя файла, компьютерная программа или любая другая строка, которую компьютер распознает.
+	Элемент <LE>code</LE> представляет собой фрагмент компьютерного кода. Это может быть:  XML элемент, имя файла, компьютерная программа или любая другая строка, которую компьютер распознает.
 </p>
 
 <p>
-Не существует формализованного способа для того, чтобы распознать, какой именно компьютерный код использован. Те пользователи, которые желают выделить <LE>code</LE> элемент при помощи используемого языка, могут использовать атрибут <LE>class</LE>, к примеру, добавить к элементу <LE>class</LE> приставку "language-". 
+	Не существует формализованного способа для того, чтобы распознать, какой именно компьютерный код использован. Те пользователи, которые желают выделить <LE>code</LE> элемент при помощи используемого языка, могут использовать атрибут <LE>class</LE>, к примеру, добавить к элементу <LE>class</LE> приставку "language-". 
 </p>
 
 <ExampleBox>
@@ -13,20 +13,16 @@
 <Code>
 {`
 <p>
-The <code>code</code> element represents a fragment of computer
-code.
+	<code>code</code> - это элемент, представляющий часть компьютероного кода.
 </p>
 
 <p>
-When you call the <code>activate()</code> method on the
-<code>robotSnowman</code> object, the eyes glow.
+	Если вы нажмете <code>activate()</code> с помощью
+	<code>robotSnowman</code> глаза будут светиться у объекта.
 </p>
 
 <p>
-The example below uses the <code>begin</code> keyword to indicate
-the start of a statement block. It is paired with an <code>end</code>
-keyword, which is followed by the <code>.</code> punctuation character
-(full stop) to indicate the end of the program.
+	В приведенном ниже примере ключевое слово <code>begin</code> используется для обозначения начала блока. Он сочетается с <code>end</code> ключевым словом, за которым следует знак препинания <code>.</code> (точка) чтобы обозначить конец программы.
 </p>
 `}
 </Code>
@@ -40,10 +36,10 @@ keyword, which is followed by the <code>.</code> punctuation character
 <Code>
 {`
 <pre>
-<code class="language-pascal">var i: Integer;
-begin
-   i := 1;
-end.</code>
+	<code class="language-pascal">var i: Integer;
+	begin
+  	i := 1;
+	end.</code>
 </pre>
 `}
 </Code>

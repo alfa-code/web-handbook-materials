@@ -1,5 +1,5 @@
 <p>
-Элемент <LE>s</LE> показывает неточную или неактуальную информацию.
+	Элемент <LE>s</LE> показывает неточную или неактуальную информацию.
 </p>
 
 <ExampleBox>
@@ -9,15 +9,15 @@
 <Code>
 {`
 <p>
-Buy our Iced Tea and Lemonade!
+	Покупайте наш холодный чай и лемонад!
 </p>
 <p>
-<s>Recommended retail price: $3.99 per bottle</s>
+	<s>Цена: $3.99 за бутылку</s>
 </p>
 <p>
-<strong>
-Now selling for just $2.99 a bottle!
-</strong>
+	<strong>
+			Сейчас можно купить всего за $2.99!
+	</strong>
 </p>
 `}
 </Code>

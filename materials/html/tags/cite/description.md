@@ -1,9 +1,9 @@
 <p>
-Элемент <LE>cite</LE> указывает на название чего-либо (книга, статья, эссе, стихотворение, песня, сценарий, фильм, телешоу, игра, скульптура, картина, постановка и т.д.) Этим элементом может быть выделена работа, на которую ссылаются или которая цитируется. Может выделяться и работа, о которой упоминают вскользь.
+	Элемент <LE>cite</LE> указывает на название чего-либо (книга, статья, эссе, стихотворение, песня, сценарий, фильм, телешоу, игра, скульптура, картина, постановка и т.д.) Этим элементом может быть выделена работа, на которую ссылаются или которая цитируется. Может выделяться и работа, о которой упоминают вскользь.
 </p>
 
 <p>
-Данный элемент не используется для выделения имен людей. В некоторых случаях элеменет <LE>b</LE> может для этого дела. Например, в журналах имена и фамилии людей выделяются, чтобы привлечь максимальное внимание к тому или иному персонажу. При необходимости выделения имен в ряде других случаев используется элемент <LE>span</LE>
+	Данный элемент не используется для выделения имен людей. В некоторых случаях элеменет <LE>b</LE> может для этого дела. Например, в журналах имена и фамилии людей выделяются, чтобы привлечь максимальное внимание к тому или иному персонажу. При необходимости выделения имен в ряде других случаев используется элемент <LE>span</LE>
 </p>
 
 <ExampleBox>
@@ -13,10 +13,9 @@
 <Code>
 {`
 <p>
-My favorite book is <cite>The Reality Dysfunction</cite> by
-Peter F. Hamilton. My favorite comic is <cite>Pearls Before
-Swine</cite> by Stephan Pastis. My favorite track is <cite>Jive
-Samba</cite> by the Cannonball Adderley Sextet.
+	Моя любимая книга - <cite>The Reality Dysfunction</cite> Питера Хамингтона.Мой любимый комик - <cite>Pearls Before
+	Swine</cite> Стефена Пастиса. Мой любимый трек - <cite>Jive
+	Samba</cite> Адрелии Сектета.
 </p>
 `}
 </Code>
@@ -30,9 +29,7 @@ Samba</cite> by the Cannonball Adderley Sextet.
 <Code>
 {`
 <p>
-According to the Wikipedia article <cite>HTML</cite>, as it
-stood in mid-February 2008, leaving attribute values unquoted is
-unsafe. This is obviously an over-simplification.
+	По данным Википедии <cite>HTML</cite>, статья февраля 2008, значение атрибута можно оставить без кавычек. Очевидно, что это очень сильно упрощает.
 </p>
 `}
 </Code>
@@ -41,9 +38,7 @@ unsafe. This is obviously an over-simplification.
 
 <!-- do not copy this example, it is an example of bad usage! -->
 <p>
-According to <cite>the Wikipedia article on HTML</cite>, as it
-stood in mid-February 2008, leaving attribute values unquoted is
-unsafe. This is obviously an over-simplification.
+	По данным <cite>статьи Википедии HTML</cite>, от февраля 2008, значение атрибута можно оставить без кавычек. Очевидно, что это очень сильно упрощает.
 </p>
 
 </ExampleBox>
@@ -55,8 +50,8 @@ unsafe. This is obviously an over-simplification.
 <Code>
 {`
 <p>
-<cite>Universal Declaration of Human Rights</cite>, United Nations,
-December 1948. Adopted by General Assembly resolution 217 A (III).
+	<cite>Декларация по правам человека</cite>, United Nations,
+	Декабрь 1948. Принята резолюцией 217 Генеральной Ассамблеи A (III).
 </p>
 `}
 </Code>
@@ -70,7 +65,7 @@ December 1948. Adopted by General Assembly resolution 217 A (III).
 <Code>
 {`
 <p>
-<cite>This is wrong!</cite>, said Ian.
+	<cite>Это неправильно!</cite>, сказал Ян.
 </p>
 `}
 </Code>
@@ -80,10 +75,10 @@ December 1948. Adopted by General Assembly resolution 217 A (III).
 <Code>
 {`
 <p>
-<q>
-This is still wrong!
-</q>,
-said <cite>Ian</cite>.
+	<q>
+		Это неправильно!
+	</q>,
+	сказал <cite>Ян</cite>.
 </p>
 `}
 </Code>
@@ -93,13 +88,23 @@ said <cite>Ian</cite>.
 <Code>
 {`
 <p>
-<q>
-This is correct
-</q>, said Ian.
+	<q>
+		Это правильно
+	</q>, сказал Ян.
 </p>
 `}
 </Code>
 
 Элемент <LE>b</LE> может выделять имена и ключевые моменты в предложении:
 
+<p>
+	И затем 
+	<b>
+		Ян
+	</b> 
+	сказал 
+	<q>
+		это может быть правдой только в желтой газете!
+	</q>.
+</p>
 </ExampleBox>
