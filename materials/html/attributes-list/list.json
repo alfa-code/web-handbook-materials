@@ -1,0 +1,26 @@
+[
+    {
+        "type": "content",
+        "name": "name 1"
+    },
+    {
+        "type": "flow",
+        "name": "name 2"
+    },
+    {
+        "type": "content",
+        "name": "name 3"
+    },
+    {
+        "type": "flow",
+        "name": "name 4"
+    },
+    {
+        "type": "content",
+        "name": "name 5"
+    },
+    {
+        "type": "flow",
+        "name": "name 6"
+    }
+]
