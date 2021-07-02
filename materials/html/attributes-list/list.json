@@ -1,26 +1,95 @@
 [
     {
-        "type": "content",
-        "name": "name 1"
+        "type": "global",
+        "name": "accesskey"
+    },
+
+    {
+        "type": "global",
+        "name": "autocapitalize"
+    },
+
+    {
+        "type": "global",
+        "name": "autofocus"
+    },
+
+    {
+        "type": "global",
+        "name": "contenteditable"
+    },
+
+    {
+        "type": "global",
+        "name": "dir"
+    },
+
+    {
+        "type": "global",
+        "name": "draggable"
     },
     {
-        "type": "flow",
-        "name": "name 2"
+        "type": "global",
+        "name": "enterkeyhint"
     },
     {
-        "type": "content",
-        "name": "name 3"
+        "type": "global",
+        "name": "hidden"
     },
     {
-        "type": "flow",
-        "name": "name 4"
+        "type": "global",
+        "name": "inputmode"
     },
     {
-        "type": "content",
-        "name": "name 5"
+        "type": "global",
+        "name": "is"
     },
     {
-        "type": "flow",
-        "name": "name 6"
+        "type": "global",
+        "name": "itemid"
+    },
+    {
+        "type": "global",
+        "name": "itemprop"
+    },
+    {
+        "type": "global",
+        "name": "itemref"
+    },
+    {
+        "type": "global",
+        "name": "itemscope"
+    },
+    {
+        "type": "global",
+        "name": "itemtype"
+    },
+    {
+        "type": "global",
+        "name": "lang"
+    },
+    {
+        "type": "global",
+        "name": "nonce"
+    },
+    {
+        "type": "global",
+        "name": "spellcheck"
+    },
+    {
+        "type": "global",
+        "name": "style"
+    },
+    {
+        "type": "global",
+        "name": "tabindex"
+    },
+    {
+        "type": "global",
+        "name": "title"
+    },
+    {
+        "type": "global",
+        "name": "translate"
     }
 ]
