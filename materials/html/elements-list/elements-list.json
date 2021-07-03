@@ -91,6 +91,9 @@
             "name": "comment"
         },
         {
+            "name": "data"
+        },
+        {
             "name": "datalist"
         },
         {
