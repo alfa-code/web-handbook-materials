@@ -1,4 +1,14 @@
 {
     "type": "global",
-    "name": "target"
+    "name": "target",
+    "structure": [
+        {
+            "type": "type",
+            "value": "global"
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        }
+    ]
 }
