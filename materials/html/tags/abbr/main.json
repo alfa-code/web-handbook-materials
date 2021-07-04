@@ -25,6 +25,10 @@
             "value": "---"
         },
         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
             "type": "content_attributes",
             "value": {
                 "global_attributes": true,
