@@ -1,0 +1,43 @@
+{
+    "tagName": "time",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content",
+                "phrasing content",
+                "palpable content"
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент <LE>time</LE> служит для выделения времени или даты в разметке страницы."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "Если элемент имеет атрибут <LA>datetime</LA> то содержимое элемента является Фразовым (phrasing content). В противном случае контент является обычным тектстом."
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "datetimne",
+                        "description": "Машиночитаемое значение (<a href='https://en.wikipedia.org/wiki/Machine-readable_data' target='_blank'>Machine-readable value</a>)"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
