@@ -1,0 +1,40 @@
+{
+    "tagName": "base",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "metadata content"
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Нет закрывающего тега."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "base элемент позволяет авторам указывать базовый URL-адрес документа для анализа URL-адресов и имя контекста по умолчанию для следующих гиперссылок.",
+                "Данный элемент не содержит больше ничего, кроме этой информации."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "Контент отсутсвует"
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}

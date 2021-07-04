@@ -1,0 +1,41 @@
+{
+    "tagName": "address",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content",
+                "palpable content"
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент <LE>address</LE> показывает контактную информацию и находится вблизи элементов <LE>article</LE> или <LE>body</LE>.",
+                "Если это основной элемент, то контактная информация применяется ко всему документу."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "Базовый контент."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}

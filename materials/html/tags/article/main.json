@@ -26,6 +26,10 @@
             "value": "flow content"
         },
         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
             "type": "content_attributes",
             "value": {
                 "global_attributes": true,
