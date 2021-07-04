@@ -38,6 +38,10 @@
             }
         },
         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
             "type": "example",
             "value": false
         }
