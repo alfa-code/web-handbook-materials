@@ -1,0 +1,42 @@
+{
+    "tagName": "aside",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content",
+                "sectioning content",
+                "palpable content"
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент aside представляет собой раздел страницы, состоящий из контента, который косвенно связан с контентом вокруг элемента aside, также его можно рассматривать как отдельный от контента.",
+                "Такие разделы часто представлены в виде боковых панелей."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "flow content."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}

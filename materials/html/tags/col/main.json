@@ -1,0 +1,39 @@
+{
+    "tagName": "col",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "Отсутствуют"
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Нет закрывающего тега."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Если у элемента col есть родительский элемент, и это элемент - colgroup, и он имеет родительский элемент,  в виде элемента table, то элемент col представляет один или несколько столбцов в группе, представленной colgroup."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "Отсутствует"
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
