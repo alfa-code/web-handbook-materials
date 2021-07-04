@@ -29,7 +29,7 @@
                 "global_attributes": true,
                 "custom_attributes": [
                     {
-                        "name": "datetimne",
+                        "name": "datetime",
                         "description": "Машиночитаемое значение (<a href='https://en.wikipedia.org/wiki/Machine-readable_data' target='_blank'>Machine-readable value</a>)"
                     }
                 ]
