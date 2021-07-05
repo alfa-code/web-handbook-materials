@@ -29,7 +29,7 @@
             "type": "content_model",
             "value": "Фразовый контент."
         },
-         {
+        {
             "type": "content_attributes",
             "value": {
                 "global_attributes": true

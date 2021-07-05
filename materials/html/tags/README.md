@@ -63,6 +63,10 @@
         {
             "type": "obsolete", // Является ли элемент устаревшим
             "value": true
+        },
+        {
+            "type": "fullDescription",
+            "value": true
         }
     ]
 }

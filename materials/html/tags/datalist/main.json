@@ -1,0 +1,41 @@
+{
+    "tagName": "datalist",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content",
+                "phrasing content"
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": [
+                "Открывающий и закрывающий теги обязательны."
+            ]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Данный html элемент, в связке с элементами <LE>option</LE> и <LE>input</LE> позволяет сделать выпадающий список при вводе значения в поле формы."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": [
+                "Либо фразовый контент, либо 0 и более елементов <LE>option</LE>",
+                "Так же, контентом могут быть скриптовые элементы, такие как <LE>script</LE> и <LE>template</LE>."
+            ]
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        }
+    ]
+}
