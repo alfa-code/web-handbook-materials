@@ -1,0 +1,44 @@
+{
+    "tagName": "fieldset",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content",
+                "sectioning root",
+                "listed",
+                "palpable content"
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент fieldset представляет собой набор элементов управления формой (или другого содержимого), сгруппированных вместе, необязательно с заголовком.",
+                "Заголовок задается первым элементом legend, который является дочерним элементом элемента fieldset, если таковой имеется.",
+                "Остальные дочерние элементы образуют группу."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "flow content."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
