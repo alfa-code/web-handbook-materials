@@ -1,0 +1,40 @@
+{
+    "tagName": "colgroup",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "Отсутствуют."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Начальный тег элемента colgroup может не ставится, если сначала стоит элемент col внутри colgroup и если до этого не стоял другой элемент colgroup без закрывающего тега.",
+            "Конечный тег элемента colgroup может не ставится, если за элементом colgroup нет пробела или комментария."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент colgroup представляет группу из одного или нескольких столбцов в таблице, которая является родительской при наличии родительского элемента - элемента таблицы."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "Отсутствует."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
