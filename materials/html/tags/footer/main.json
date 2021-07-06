@@ -1,0 +1,41 @@
+{
+    "tagName": "footer",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content.",
+                "palpable content."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент footer представляет нижний колонтитул для его ближайшего дочернего элемента, разделяющего содержимое или корневой элемент.",
+                "footer обычно содержит информацию о своем разделе, например, кто его написал, ссылки на связанные документы, данные об авторских правах и т.д."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "flow content."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
