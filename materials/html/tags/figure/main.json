@@ -1,0 +1,41 @@
+{
+    "tagName": "figure",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content.",
+                "sectioning root.",
+                "palpable content."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент figure представляет некоторое содержимое, необязательно с заголовком, которое является самостоятельным (например, полное предложение) и обычно упоминается как единый блок из основного документа."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "flow content."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
