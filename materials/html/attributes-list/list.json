@@ -91,5 +91,9 @@
     {
         "type": "global",
         "name": "translate"
+    },
+    {
+        "type": "other",
+        "name": "target"
     }
 ]
