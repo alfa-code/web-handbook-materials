@@ -1,0 +1,42 @@
+{
+    "tagName": "kbd",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content.",
+                "phrasing content",
+                "palpable content"
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": [
+                      "Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент kbd представляет пользовательский ввод (обычно ввод с клавиатуры, хотя он также может использоваться для представления другого ввода, например голосовых команд)."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "phrasing content."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
