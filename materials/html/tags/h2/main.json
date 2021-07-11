@@ -1,0 +1,41 @@
+{
+    "tagName": "h2",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content",
+                "heading content",
+                "palpable content"
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Эти элементы представляют собой заголовки своих разделов."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "Фразовый контент."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}

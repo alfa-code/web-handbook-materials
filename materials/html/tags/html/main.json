@@ -23,6 +23,10 @@
             "type": "content_model",
             "value": "Элемент head, за которым следует элемент body."
         },
+          {
+            "type": "fullDescription",
+            "value": true
+        },
         {
             "type": "content_attributes",
             "value": {

@@ -1,0 +1,40 @@
+{
+    "tagName": "legend",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "Отсутствуют."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": [
+                      "Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент legend представляет собой заголовок для остального содержимого родительского элемента fieldset элемента legend, если таковой имеется."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "phrasing content."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
