@@ -1,0 +1,40 @@
+{
+    "tagName": "menu",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content",
+                "palpable content"
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент menu представляет собой панель инструментов, состоящую из своего содержимого в виде неупорядоченного списка элементов (представленных элементами li), каждый из которых представляет команду, которую пользователь может выполнить или активировать."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "Ноль или более элементов script-supporting и li."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
