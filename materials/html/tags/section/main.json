@@ -1,0 +1,41 @@
+{
+    "tagName": "section",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content.",
+                "sectioning content.",
+                "palpable content."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент section представляет собой общий раздел документа или приложения, раздел в этом контексте представляет собой тематическую группу контента, обычно с заголовком."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "flow content."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
