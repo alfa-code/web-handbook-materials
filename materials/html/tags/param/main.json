@@ -1,0 +1,39 @@
+{
+    "tagName": "param",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "Отсутствуют"
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Нет закрывающего тега."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент param определяет параметры плагинов, вызываемых элементами object. Сам по себе он ничего не представляет."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "Отсутствуют."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
