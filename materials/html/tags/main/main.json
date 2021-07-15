@@ -1,11 +1,10 @@
 {
-    "tagName": "nav",
+    "tagName": "main",
     "structure": [
         {
             "type": "categories",
             "value": [
                 "flow content",
-                "sectioning content.",
                 "palpable content"
             ]
         },
@@ -16,7 +15,7 @@
         {
             "type": "description",
             "value": [
-                "Элемент nav представляет собой раздел страницы, который ссылается на другие страницы или части страницы: раздел с навигационными ссылками."
+                "main элемент представляет собой главное содержимое документа."
             ]
         },
         {

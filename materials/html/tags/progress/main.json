@@ -1,0 +1,43 @@
+{
+    "tagName": "progress",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content.",
+                "phrasing content.",
+                "labelable element.",
+                "palpable content."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент progress представляет собой прогресс выполнения задачи.",
+                "Если progress неопределен, это указывает на то, что прогресс был достигнут, но неясно, сколько еще работы осталось сделать до завершения задачи (например, потому что задача ожидает ответа от удаленного хоста), либо прогресс есть число в диапазоне от нуля до максимума,  показывающее долю работы, которая была выполнена на данный момент."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "phrasing content."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}

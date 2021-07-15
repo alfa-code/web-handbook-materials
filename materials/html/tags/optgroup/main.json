@@ -1,0 +1,39 @@
+{
+    "tagName": "optgroup",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "Отсутствуют"
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Конечный тег элемента optgroup может не использоваться, если за элементом optgroup сразу же следует другой элемент optgroup или если в родительском элементе больше нет содержимого."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент optgroup представляет собой группу элементов option с общей меткой."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "Ноль или более option и script-supporting элементов."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}

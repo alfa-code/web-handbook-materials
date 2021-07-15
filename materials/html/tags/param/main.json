@@ -1,22 +1,20 @@
 {
-    "tagName": "nav",
+    "tagName": "param",
     "structure": [
         {
             "type": "categories",
             "value": [
-                "flow content",
-                "sectioning content.",
-                "palpable content"
+                "Отсутствуют"
             ]
         },
         {
             "type": "tag_omission",
-            "value": ["Открывающий и закрывающий теги обязательны."]
+            "value": ["Нет закрывающего тега."]
         },
         {
             "type": "description",
             "value": [
-                "Элемент nav представляет собой раздел страницы, который ссылается на другие страницы или части страницы: раздел с навигационными ссылками."
+                "Элемент param определяет параметры плагинов, вызываемых элементами object. Сам по себе он ничего не представляет."
             ]
         },
         {
@@ -25,7 +23,7 @@
         },
         {
             "type": "content_model",
-            "value": "flow content."
+            "value": "Отсутствуют."
         },
          {
             "type": "content_attributes",
