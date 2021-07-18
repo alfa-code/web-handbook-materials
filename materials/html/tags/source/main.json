@@ -1,0 +1,40 @@
+{
+    "tagName": "source",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "Отсутствуют"
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Закрывающий тег отсутствует."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент source позволяет авторам указать несколько альтернативных исходных элементов img или несколько альтернативных медиаресурсов для медиаэлементов.",
+                "Сам по себе он ничего не представляет."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "Контент отсутствует"
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
