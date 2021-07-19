@@ -1,11 +1,11 @@
 {
-    "tagName": "nav",
+    "tagName": "map",
     "structure": [
         {
             "type": "categories",
             "value": [
                 "flow content",
-                "sectioning content.",
+                "phrasing content.",
                 "palpable content"
             ]
         },
@@ -16,7 +16,7 @@
         {
             "type": "description",
             "value": [
-                "Элемент nav представляет собой раздел страницы, который ссылается на другие страницы или части страницы: раздел с навигационными ссылками."
+                "Элемент map в сочетании с элементом img и любыми дочерними элементами area показывает карту."
             ]
         },
         {
@@ -25,7 +25,7 @@
         },
         {
             "type": "content_model",
-            "value": "flow content."
+            "value": "transparent."
         },
          {
             "type": "content_attributes",
