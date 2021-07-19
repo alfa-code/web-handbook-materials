@@ -1,0 +1,39 @@
+{
+    "tagName": "td",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "sectioning root."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Конечный тег элемента td может не присутствовать, если за элементом td сразу следует элемент td или th, или если в главном элементе больше нет содержимого."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент td представляет собой ячейку данных в таблице."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "flow content."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
