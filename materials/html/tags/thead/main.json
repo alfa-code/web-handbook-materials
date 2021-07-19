@@ -1,0 +1,39 @@
+{
+    "tagName": "thead",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "Отсутствуют."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Конечный тег элемента thead может не присутствовать, если за элементом thead сразу следует элемент tbody или tfoot."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент thead представляет собой блок строк, состоящий из столбцов (заголовков) для главного элемента таблицы, если у элемента thead есть главный элемент, и это таблица."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "Ноль или более tr и элементов script-supporting."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
