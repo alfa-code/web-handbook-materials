@@ -1,0 +1,39 @@
+{
+    "tagName": "summary",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "Отсутствуют."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент Summary представляет собой сводку или заголовок для остальной части содержимого главного элемента details, если таковые имеются."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "Фразовый контент."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
