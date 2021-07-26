@@ -1,0 +1,55 @@
+{
+    "tagName": "basefont",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "Отсутствует."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Тег basefont предназначен для задания шрифта, размера и цвета текста по умолчанию."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": [
+                "Контент отсутствует."
+            ]
+        },
+           {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "color",
+                        "description": "Устанавливает цвет текста."
+                    },
+                    {
+                        "name": "face",
+                        "description": "Определяет гарнитуру шрифта."
+                    },
+                    {
+                        "name": "size",
+                        "description": "Задает размер шрифта в условных единицах."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
