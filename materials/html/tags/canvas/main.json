@@ -1,0 +1,54 @@
+{
+    "tagName": "canvas",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content",
+                "phrasing content",
+                "embedded content.",
+                "palpable content."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент canvas предоставляет варианты размещения изображения, зависящие от разрешения, который можно использовать для изменения графиков, игровой графики, искусства или других визуальных изображений."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": [
+                "Без интерактивных потомков содержимого, за исключением a элементов, элементов img с атрибутами usemap, элементов button, элементов input, атрибут type находится в Checkbox или Radio Button, элементов select, если размер дисплея больше 1."
+            ]
+        },
+           {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "width",
+                        "description": "Горизонтальное направление"
+                    },
+                    {
+                        "name": "height",
+                        "description": "Вертикальное направление"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}

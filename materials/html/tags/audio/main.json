@@ -26,6 +26,10 @@
                 "Если элемент не имеет атрибута `src`: ноль или более элементов `source`, то ноль или более <Link to=\"/html-list/track\">track</Link> элементов, то прозрачный (`transparent`), но без потомков медиа-элементов (`media element`)."
             ]
         },
+           {
+            "type": "fullDescription",
+            "value": true
+        },
         {
             "type": "content_attributes",
             "value": {
