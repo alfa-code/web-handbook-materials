@@ -1,5 +1,5 @@
 {
-    "tagName": "big",
+    "tagName": "blink",
     "structure": [
         {
             "type": "categories",
@@ -14,7 +14,7 @@
         {
             "type": "description",
             "value": [
-                "Тег big увеличивает размер шрифта на единицу по сравнению с обычным текстом."
+                "Устанавливает мигание текста."
             ]
         },
         {
@@ -30,7 +30,7 @@
         {
             "type": "content_attributes",
             "value": {
-                "global_attributes": true
+                "global_attributes": false
             }
         },
         {
