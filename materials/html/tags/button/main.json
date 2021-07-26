@@ -1,0 +1,86 @@
+{
+    "tagName": "button",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content",
+                "phrasing content",
+                "interactive content.",
+                "palpable content."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент button представляет собой кнопку, помеченную содержимым."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": [
+                "phrasing content."
+            ]
+        },
+           {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "disabled",
+                        "description": "Oтключен ли элемент управления формой"
+                    },
+                    {
+                        "name": "form",
+                        "description": "Cвязывает элемент с элементом формы"
+                    },
+                    {
+                        "name": "formaction",
+                        "description": "URL для использования для отправки формы"
+                    },
+                    {
+                        "name": "formenctype",
+                        "description": "Тип кодировки списка записей для использования при отправке формы"
+                    },
+                    {
+                        "name": "formmethod",
+                        "description": "Вариант для использования при отправке формы"
+                    },
+                    {
+                        "name": "formnovalidate",
+                        "description": "Обход проверки контроля формы для отправки формы"
+                    },
+                    {
+                        "name": "formtarget",
+                        "description": "Контекст просмотра для отправки формы"
+                    }
+                    {
+                        "name": "name",
+                        "description": "Имя элемента, используемого для отправки формы и в API form.elements"
+                    }
+                    {
+                        "name": "type",
+                        "description": "Тип кнопки"
+                    }
+                    {
+                        "name": "value",
+                        "description": "Значение, которое будет использоваться для отправки формы"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
