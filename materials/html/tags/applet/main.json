@@ -18,6 +18,10 @@
             "value": false
         },
         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
             "type": "obsolete",
             "value": true
         }

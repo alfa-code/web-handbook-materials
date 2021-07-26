@@ -1,0 +1,41 @@
+{
+    "tagName": "blink",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "Отсутствует."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Закрывающий тег обязателен."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Устанавливает мигание текста."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": [
+                "Контент отсутствует."
+            ]
+        },
+           {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": false
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
