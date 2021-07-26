@@ -1,0 +1,48 @@
+{
+    "tagName": "details",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content",
+                "sectioning root",
+                "interactive content",
+                "palpable content."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент details представляет собой виджет раскрытия информации, из которого пользователь может получить дополнительную информацию или элементы управления."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "flow content."
+        },
+         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "open",
+                        "description": "Делает details видимым."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
