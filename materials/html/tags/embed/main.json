@@ -1,0 +1,61 @@
+{
+    "tagName": "embed",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content",
+                "phrasing content",
+                "embedded content",
+                "interactive content",
+                "palpable content."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Нет закрывающего тега."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент embed обеспечивает точку интеграции для внешнего (обычно не HTML) приложения или интерактивного контента."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "Отсутствует."
+        },
+         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "src",
+                        "description": "Ссылается на ресурс"
+                    },
+                     {
+                        "name": "type",
+                        "description": "Тип встроенного ресурса"
+                    },
+                     {
+                        "name": "width",
+                        "description": "Горизонтальное выравнивание"
+                    },
+                     {
+                        "name": "height",
+                        "description": "Вертикальное выравнивание"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}

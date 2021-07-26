@@ -1,0 +1,39 @@
+{
+    "tagName": "comment",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "Отсутствуют."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Закрывающий тег обязателен."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Добавляет комментарий в код документа."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "Отсутствует."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": false
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}

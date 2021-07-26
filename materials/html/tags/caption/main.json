@@ -1,0 +1,39 @@
+{
+    "tagName": "caption",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "Отсутствуют."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Конечный тег элемента caption может быть опущен, если за элементом сразу не следует пробел ASCII или комментарий."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент caption представляет заголовок таблицы."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "Отсутствует."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}

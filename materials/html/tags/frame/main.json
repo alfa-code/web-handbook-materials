@@ -1,0 +1,65 @@
+{
+    "tagName": "frame",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "Отсутствуют."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Закрывающий тег отсутствует."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Тег frame определяет свойства отдельного фрейма, на которые делится окно браузера."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "Отсутствует."
+        },
+         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "bordercolor",
+                        "description": "Цвет линии границы."
+                    },
+                     {
+                        "name": "frameborder",
+                        "description": "Отображать рамку вокруг фрейма или нет."
+                    },
+                    {
+                        "name": "name",
+                        "description": "Задает уникальное имя фрейма."
+                    },
+                    {
+                        "name": "noresize",
+                        "description": "Определяет, можно изменять размер фрейма пользователю или нет."
+                    },
+                    {
+                        "name": "scrolling",
+                        "description": "Способ отображения полосы прокрутки во фрейме."
+                    },
+                    {
+                        "name": "src",
+                        "description": "Путь к файлу, предназначенному для загрузки во фрейме."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}

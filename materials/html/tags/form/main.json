@@ -1,0 +1,78 @@
+{
+    "tagName": "form",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content.",
+                "palpable content."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент form представляет собой гиперссылку, которой можно управлять с помощью набора связанных с формой элементов, некоторые из которых могут представлять редактируемые значения, которые могут быть отправлены на сервер для обработки."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "flow content."
+        },
+         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "accept-charset",
+                        "description": "Кодировки символов использующихся при отправке формы."
+                    },
+                     {
+                        "name": "action",
+                        "description": "URL для отправки формы."
+                    },
+                    {
+                        "name": "autocomplete",
+                        "description": "Настройка по умолчанию функции автозаполнения для элементов управления в форме."
+                    },
+                    {
+                        "name": "enctype",
+                        "description": "Тип кодировки списка записей использования при отправке формы."
+                    },
+                    {
+                        "name": "method",
+                        "description": "Вариант использования при отправке формы."
+                    },
+                    {
+                        "name": "name",
+                        "description": "Имя формы использования в API document.forms."
+                    },
+                    {
+                        "name": "novalidate",
+                        "description": "Обойти проверку контроля формы для отправки формы."
+                    },
+                    {
+                        "name": "target",
+                        "description": "Контекст просмотра для отправки формы."
+                    },
+                     {
+                        "name": "rel",
+                        "description": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
