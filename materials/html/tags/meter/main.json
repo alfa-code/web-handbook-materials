@@ -1,0 +1,68 @@
+{
+    "tagName": "meter",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content.",
+                "phrasing content.",
+                "labelable element.",
+                "palpable content."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент meter представляет собой скалярное измерение в пределах известного диапазона или дробное значение."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "phrasing content."
+        },
+         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "value",
+                        "description": "Текущее значение элемента."
+                    },
+                     {
+                        "name": "min",
+                        "description": "Нижняя граница диапазона."
+                    },
+                    {
+                        "name": "max",
+                        "description": "Верхняя граница диапазона."
+                    },
+                    {
+                        "name": "low",
+                        "description": "Верхний предел нижнего диапазона."
+                    },
+                    {
+                        "name": "high",
+                        "description": "Нижний предел высокого диапазона."
+                    },
+                     {
+                        "name": "optimum",
+                        "description": "Оптимальное значение."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
