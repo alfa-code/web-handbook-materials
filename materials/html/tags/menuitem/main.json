@@ -1,0 +1,73 @@
+{
+    "tagName": "menuitem",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "Отсутствует."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Отсутствует."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Тег menuitem определяет элемент команды/меню, который пользователь может вызвать из контекстного меню."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "Отсутствует."
+        },
+         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "checked",
+                        "description": "Указывает, что команда / меню должны быть выбраны, когда страница загружается."
+                    },
+                     {
+                        "name": "command",
+                        "description": "Указывает назначение команды."
+                    },
+                    {
+                        "name": "default",
+                        "description": "Помечает команду/меню по умолчанию."
+                    },
+                    {
+                        "name": "disabled",
+                        "description": "Указывает, что команда/меню должны быть отключены."
+                    },
+                    {
+                        "name": "icon",
+                        "description": "Указывает значок для меню/команды."
+                    },
+                     {
+                        "name": "label",
+                        "description": "Указывает как отображать для пользователя имя элемента меню/команды."
+                    },
+                     {
+                        "name": "radiogroup",
+                        "description": "Задает имя группы команд, которые будут переключаться, когда пункт меню/команды переключается."
+                    },
+                     {
+                        "name": "type",
+                        "description": "Определяет тип элемента меню/комманды."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
