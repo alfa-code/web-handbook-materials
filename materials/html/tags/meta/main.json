@@ -1,0 +1,61 @@
+{
+    "tagName": "meta",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "metadata content."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Нет закрывающего тега."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент meta представляет различные виды метаданных, которые нельзя выразить с помощью элементов title, base, link, style и script."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "Отсутствует."
+        },
+         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "name",
+                        "description": "Название метадаты."
+                    },
+                     {
+                        "name": "http-equiv",
+                        "description": "Pragma директива."
+                    },
+                    {
+                        "name": "content",
+                        "description": "Значение элемента."
+                    },
+                    {
+                        "name": "charset",
+                        "description": "Объявление кодировки символов."
+                    },
+                    {
+                        "name": "media",
+                        "description": "Применимые СМИ."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}

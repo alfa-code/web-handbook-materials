@@ -1,0 +1,158 @@
+{
+    "tagName": "input",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content.",
+                "phrasing content."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Нет закрывающего тега."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент input представляет собой поле типизированных данных, позволяющим пользователю редактировать данные."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "Отсутствует."
+        },
+         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "accept",
+                        "description": "Подсказка типа файла в элементах управления загрузкой файлов."
+                    },
+                     {
+                        "name": "alt",
+                        "description": "Заменяющий текст для использования, когда изображения недоступны."
+                    },
+                    {
+                        "name": "autocomplete",
+                        "description": "Подсказка для функции автозаполнения форм."
+                    },
+                    {
+                        "name": "checked",
+                        "description": "Проверка элемента управления."
+                    },
+                    {
+                        "name": "dirname",
+                        "description": "Имя элемента управления формы, чтобы использовать для отправки формы."
+                    },
+                     {
+                        "name": "disabled",
+                        "description": "Отключение элемента управления формой."
+                    },
+                     {
+                        "name": "form",
+                        "description": "Связывает элемент с элементом формы."
+                    },
+                     {
+                        "name": "formaction",
+                        "description": "URL для отправки формы."
+                    },
+                     {
+                        "name": "formenctype",
+                        "description": "Тип кодировки списка записей при отправке формы."
+                    },
+                    {
+                        "name": "formmethod",
+                        "description": "Вариант использования при отправке формы."
+                    },
+                    {
+                        "name": "formnovalidate",
+                        "description": "Обход проверки контроля формы для отправки формы."
+                    },
+                     {
+                        "name": "formtarget",
+                        "description": "Контекст просмотра для отправки формы."
+                    },
+                     {
+                        "name": "height",
+                        "description": "Вертикальный размер."
+                    },
+                     {
+                        "name": "list",
+                        "description": "Список опций автозаполнения."
+                    },
+                     {
+                        "name": "max",
+                        "description": "Максимальное значение."
+                    },
+                     {
+                        "name": "maxlength",
+                        "description": "Максимальная длина значения."
+                    },
+                     {
+                        "name": "min",
+                        "description": "Минимальное значение."
+                    },
+                     {
+                        "name": "minlength",
+                        "description": "Минимальная длина значения."
+                    },
+                     {
+                        "name": "multiple",
+                        "description": "Разрешить несколько значений."
+                    },
+                     {
+                        "name": "name",
+                        "description": "Имя элемента, используемого для отправки формы в API form.elements."
+                    },
+                     {
+                        "name": "pattern",
+                        "description": "Шаблон, который будет соответствовать значению элемента управления формы."
+                    },
+                     {
+                        "name": "placeholder",
+                        "description": "Видимая пользователем метка, которая будет помещена в элемент управления формы."
+                    },
+                     {
+                        "name": "readonly",
+                        "description": "Разрешить пользователю редактировать значение."
+                    },
+                     {
+                        "name": "required",
+                        "description": "Требуется ли элемент управления для отправки формы."
+                    },
+                     {
+                        "name": "size",
+                        "description": "Размер элемента управления."
+                    },
+                     {
+                        "name": "src",
+                        "description": "Адрес ресурса."
+                    },
+                     {
+                        "name": "step",
+                        "description": "Степень детализации должна соответствовать значению элемента управления формы."
+                    },
+                     {
+                        "name": "type",
+                        "description": "Тип формы управления."
+                    },
+                    {
+                        "name": "value",
+                        "description": "Значение элемента управления формы."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}

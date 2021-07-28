@@ -1,0 +1,85 @@
+{
+    "tagName": "iframe",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content.",
+                "phrasing content.",
+                "embedded content.",
+                "interactive content.",
+                "palpable content."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент iframe представляет собой вложенный контекст для просмотра."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "Отсутствует."
+        },
+         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "src",
+                        "description": "Ссылается на источник."
+                    },
+                     {
+                        "name": "srcdoc",
+                        "description": "документ для отображения в iframe."
+                    },
+                    {
+                        "name": "name",
+                        "description": "Имя вложенного контекста просмотра."
+                    },
+                    {
+                        "name": "sandbox",
+                        "description": "Правила безопасности для вложенного содержимого."
+                    },
+                    {
+                        "name": "allow",
+                        "description": "Политика разрешений, применяемая к содержимому iframe."
+                    },
+                     {
+                        "name": "width",
+                        "description": "Горизонтальный размер."
+                    },
+                     {
+                        "name": "height",
+                        "description": "Вертикальный размер."
+                    },
+                     {
+                        "name": "referrerpolicy",
+                        "description": "Политика реферера для выборок, инициированных элементом."
+                    },
+                     {
+                        "name": "loading",
+                        "description": "Используется при определении отсрочки загрузки."
+                    },
+                    {
+                        "name": "allowfullscreen",
+                        "description": "Разрешить содержимому iframe использовать requestFullscreen."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
