@@ -1,0 +1,65 @@
+{
+    "tagName": "keygen",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "Отсутствует."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Нет закрывающего тега."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Используется для генерации пары ключей — закрытого и открытого."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "Отсутствует."
+        },
+         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "autofocus",
+                        "description": "Передает фокус элементу при загрузке страницы."
+                    },
+                     {
+                        "name": "challenge",
+                        "description": "Определяет, должно ли значение изменяться при отправке формы."
+                    },
+                    {
+                        "name": "disabled",
+                        "description": "Отключает этот элемент."
+                    },
+                    {
+                        "name": "form",
+                        "description": "Идентификатор формы к которой применяется шифрование."
+                    },
+                    {
+                        "name": "keytype",
+                        "description": "Задает алгоритм шифрования ключа. К примеру, значение rsa использует криптографический алгоритм RSA."
+                    },
+                     {
+                        "name": "name",
+                        "description": "Имя элемента."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}

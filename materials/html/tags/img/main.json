@@ -1,0 +1,92 @@
+{
+    "tagName": "img",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content.",
+                "phrasing content.",
+                "embedded content.",
+                "palpable content."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Нет закрывающего тега."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент img представляет изображение."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "Отсутствует."
+        },
+         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "alt",
+                        "description": "Заменяющий текст, когда изображения недоступны."
+                    },
+                     {
+                        "name": "src",
+                        "description": "Адрес ресурса."
+                    },
+                    {
+                        "name": "srcset",
+                        "description": "Изображения для использования в различных ситуациях, например, дисплеи с высоким разрешением, маленькие мониторы и т. д."
+                    },
+                    {
+                        "name": "sizes",
+                        "description": "Размеры изображений для разных макетов страниц."
+                    },
+                    {
+                        "name": "crossorigin",
+                        "description": "Как элемент обрабатывает запросы на перекрестное происхождение."
+                    },
+                     {
+                        "name": "usemap",
+                        "description": "Имя используемой карты изображений."
+                    },
+                     {
+                        "name": "ismap",
+                        "description": "Является ли изображение серверной картой изображений."
+                    },
+                     {
+                        "name": "width",
+                        "description": "Горизонтальный размер."
+                    },
+                     {
+                        "name": "height",
+                        "description": "Вертикальный размер."
+                    },
+                    {
+                        "name": "decoding",
+                        "description": "Подсказка по декодированию для использования при обработке этого изображения."
+                    },
+                    {
+                        "name": "loading",
+                        "description": "Используется при определении отсрочки загрузки."
+                    },
+                    {
+                        "name": "referrerpolicy",
+                        "description": "Политика реферера для выборок, инициированных элементом."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
