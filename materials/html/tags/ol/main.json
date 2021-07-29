@@ -1,0 +1,53 @@
+{
+    "tagName": "ol",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент ol представляет собой список элементов, в которых элементы были упорядочены намеренно, так что изменение порядка изменило бы смысл документа."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "Ноль или более элементов поддержки скриптов и li."
+        },
+         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "reversed",
+                        "description": "Yумеровать список в обратном порядке."
+                    },
+                     {
+                        "name": "start",
+                        "description": "Начальное значение списка."
+                    },
+                    {
+                        "name": "type",
+                        "description": "Вид маркера списка."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
