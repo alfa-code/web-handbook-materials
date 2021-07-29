@@ -1,10 +1,12 @@
 {
-    "tagName": "ol",
+    "tagName": "output",
     "structure": [
         {
             "type": "categories",
             "value": [
-                "flow content."
+                "flow content.",
+                "phrasing content.",
+                "palpable content."
             ]
         },
         {
@@ -14,12 +16,12 @@
         {
             "type": "description",
             "value": [
-                "Элемент ol представляет собой список элементов, в которых элементы были упорядочены намеренно, так что изменение порядка изменило бы смысл документа."
+                "Элемент output представляет собой результат вычислений, выполненных приложением, или результат действия пользователя."
             ]
         },
         {
             "type": "content_model",
-            "value": "Ноль или более элементов поддержки скриптов и li."
+            "value": "phrasing content."
         },
          {
             "type": "fullDescription",
@@ -31,16 +33,16 @@
                 "global_attributes": true,
                 "custom_attributes": [
                     {
-                        "name": "reversed",
-                        "description": "Нумеровать список в обратном порядке."
+                        "name": "for",
+                        "description": "Указывает элементы управления, из которых был рассчитан вывод."
                     },
                      {
-                        "name": "start",
-                        "description": "Начальное значение списка."
+                        "name": "form",
+                        "description": "Связывает элемент с элементом формы."
                     },
                     {
-                        "name": "type",
-                        "description": "Вид маркера списка."
+                        "name": "name",
+                        "description": "Имя элемента для использования в API form.elements."
                     }
                 ]
             }
