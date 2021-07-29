@@ -1,0 +1,72 @@
+{
+    "tagName": "select",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "interactive content.",
+                "flow content.",
+                "phrasing content.",
+                "palpable content."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент select представляет собой элемент управления для выбора из набора параметров."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "Ноль или более options, optgroup и элементов поддержки скриптов."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "autocomplete",
+                        "description": "Подсказка для функции автозаполнения форм."
+                    },
+                     {
+                        "name": "disabled",
+                        "description": "Oтключение элемента управления формой."
+                    },
+                    {
+                        "name": "form",
+                        "description": "Связывает элемент с элементом form."
+                    },
+                    {
+                        "name": "multiple",
+                        "description": "Разрешить несколько значений."
+                    },
+                    {
+                        "name": "name",
+                        "description": "Имя элемента, используемого для отправки формы в API form.elements"
+                    },
+                    {
+                        "name": "required",
+                        "description": "Требуется ли элемент управления для отправки формы."
+                    },
+                    {
+                        "name": "size",
+                        "description": "Размер элемента."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
