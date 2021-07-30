@@ -1,0 +1,40 @@
+{
+    "tagName": "p",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content.",
+                "palpable content."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Закрывающий тег может отсутствовать."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент p представляет собой абзац."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "phrasing content."
+        },
+         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
