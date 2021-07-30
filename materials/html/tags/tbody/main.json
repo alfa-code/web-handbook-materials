@@ -1,0 +1,39 @@
+{
+    "tagName": "tbody",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "Отсутствуют."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент tbody представляет собой блок строк, состоящий из тела данных для родительского элемента таблицы, если у элемента tbody есть родительский элемент и это таблица."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "Ноль или более элементов tr и скриптов."
+        },
+         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
