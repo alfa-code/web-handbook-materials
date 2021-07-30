@@ -1,0 +1,49 @@
+{
+    "tagName": "style",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "metadata content."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент style позволяет авторам встраивать таблицы стилей CSS в свои документы."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "Текст, соответствующий таблице стилей."
+        },
+         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                 "custom_attributes": [
+                    {
+                        "name": "title",
+                        "description": "Заголовок."
+                    },
+                     {
+                        "name": "media",
+                        "description": "Применимые СМИ."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}

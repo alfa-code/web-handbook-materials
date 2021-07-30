@@ -1,0 +1,80 @@
+{
+    "tagName": "video",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content.",
+                "phrasing content.",
+                "embedded content.",
+                "palpable content."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент video используется для воспроизведения видео или фильмов, а также аудиофайлов с субтитрами."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "Контент отсутсвует"
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                 "custom_attributes": [
+                    {
+                        "name": "src",
+                        "description": "Адрес ресурса."
+                    },
+                     {
+                        "name": "crossorigin",
+                        "description": "Как элемент обрабатывает запросы на перекрестное происхождение."
+                    },
+                    {
+                        "name": "poster",
+                        "description": "Кадр плаката для показа перед воспроизведением видео."
+                    },
+                    {
+                        "name": "preload",
+                        "description": "Указывает, сколько буферизации медиаресурса потребуется."
+                    },
+                     {
+                        "name": "playsinline",
+                        "description": "Позволяет отображать видеоконтент в области воспроизведения элемента."
+                    },
+                     {
+                        "name": "loop",
+                        "description": "Следует ли повторять медиаресурс."
+                    },
+                     {
+                        "name": "muted",
+                        "description": "Отключить ли звук медиаресурса по умолчанию."
+                    },
+                     {
+                        "name": "сontrols",
+                        "description": "Показать элементы управления пользовательского агента."
+                    },
+                     {
+                        "name": "width",
+                        "description": "Горизонтальный размер."
+                    },
+                    {
+                        "name": "autoplay",
+                        "description": "Подсказка, что медиаресурс может запускаться автоматически при загрузке страницы."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}

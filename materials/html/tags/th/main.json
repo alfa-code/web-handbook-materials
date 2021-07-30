@@ -1,0 +1,61 @@
+{
+    "tagName": "th",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "Отсутствует."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Закрывающий тег может отсутствовать."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент th представляет ячейку заголовка в таблице."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "flow content."
+        },
+         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "colspan",
+                        "description": "Количество столбцов, которые должна охватывать ячейка."
+                    },
+                     {
+                        "name": "rowspan",
+                        "description": "Количество строк, которые должна охватывать ячейка."
+                    },
+                    {
+                        "name": "headers",
+                        "description": "Ячейки заголовка для этой ячейки."
+                    },
+                    {
+                        "name": "scope",
+                        "description": "Указывает, к каким ячейкам применяется ячейка заголовка."
+                    },
+                    {
+                        "name": "abbr",
+                        "description": "Альтернативная метка использования для ячейки заголовка при ссылке на ячейку в других контекстах."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
