@@ -1,0 +1,33 @@
+{
+    "tagName": "tt",
+    "structure": [
+        {
+            "type": "categories",
+            "value": ["Отсутствуют"]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "тег tt относится к группе тегов физического форматирования."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "Контент отсутсвует"
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
