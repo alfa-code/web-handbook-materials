@@ -1,0 +1,68 @@
+{
+    "tagName": "object",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "flow content.",
+                "phrasing content.",
+                "embedded content.",
+                "palpable content."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент object может представлять внешний ресурс, который, в зависимости от типа ресурса, будет рассматриваться либо как изображение (как дочерний контекст просмотра), либо как внешний ресурс, который будет обрабатываться плагином."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "Ноль или более элементов param."
+        },
+         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "data",
+                        "description": "Адрес ресурса."
+                    },
+                     {
+                        "name": "type",
+                        "description": "Тип встроенного ресурса."
+                    },
+                    {
+                        "name": "name",
+                        "description": "Имя вложенного контекста просмотра."
+                    },
+                    {
+                        "name": "form",
+                        "description": "Cвязывает элемент с элементом формы."
+                    },
+                    {
+                        "name": "width",
+                        "description": "Горизонтальный размер."
+                    },
+                     {
+                        "name": "height",
+                        "description": "Вертикальный размер."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}

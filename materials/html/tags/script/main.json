@@ -1,0 +1,71 @@
+{
+    "tagName": "script",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "metadata content.",
+                "flow content.",
+                "phrasing content."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент script позволяет авторам включать в свои документы блоки данных."
+            ]
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_model",
+            "value": "Отсутствует."
+        },
+         {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true,
+                "custom_attributes": [
+                    {
+                        "name": "src",
+                        "description": "Адрес ресурса."
+                    },
+                     {
+                        "name": "type",
+                        "description": "Тип скрипта."
+                    },
+                    {
+                        "name": "async",
+                        "description": "Выполнить скрипт, если он доступен, без блокировки при выборке."
+                    },
+                    {
+                        "name": "defer",
+                        "description": "Отложить выполнение скрипта."
+                    },
+                    {
+                        "name": "crossorigin",
+                        "description": "Как элемент обрабатывает запросы на перекрестное происхождение."
+                    },
+                    {
+                        "name": "integrity",
+                        "description": "Метаданные целостности, используемые в проверках целостности субресурсов."
+                    },
+                    {
+                        "name": "referrerpolicy",
+                        "description": "Политика реферера для выборок, инициированных элементом."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
