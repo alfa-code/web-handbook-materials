@@ -1,0 +1,24 @@
+{
+    "name": "is",
+    "structure": [
+        {
+            "type": "description",
+            "value": "Атрибут is позволяет указать, что стандартный элемент HTML должен вести себя как определенный настраиваемый встроенный элемент."
+        },
+        {
+            "type": "values",
+            "value": {
+                "description": "",
+                "values":  []
+            }
+        },
+        {
+            "type": "type",
+            "value": "global"
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        }
+    ]
+}
