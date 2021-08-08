@@ -1,0 +1,24 @@
+{
+    "name": "enterkeyhint",
+    "structure": [
+        {
+            "type": "description",
+            "value": "Пользовательские агенты могут поддерживать атрибут enterkeyhint в элементах управления формой."
+        },
+        {
+            "type": "values",
+            "value": {
+                "description": "",
+                "values":  []
+            }
+        },
+        {
+            "type": "type",
+            "value": "global"
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        }
+    ]
+}

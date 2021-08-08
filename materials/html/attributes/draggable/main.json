@@ -1,0 +1,24 @@
+{
+    "name": "draggable",
+    "structure": [
+        {
+            "type": "description",
+            "value": "Для всех элементов HTML может быть установлен атрибут draggable."
+        },
+        {
+            "type": "values",
+            "value": {
+                "description": "",
+                "values":  []
+            }
+        },
+        {
+            "type": "type",
+            "value": "global"
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        }
+    ]
+}

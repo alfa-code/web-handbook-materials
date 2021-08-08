@@ -1,0 +1,25 @@
+{
+    "name": "contenteditable",
+    "structure": [
+        {
+            "type": "description",
+            "value": "Атрибут содержимого contenteditable - это перечислимый атрибут, ключевыми словами которого являются пустая строка, true и false."
+        },
+        {
+            "type": "values",
+            "value": {
+                "description": "",
+                "values":  [],
+                
+            }
+        },
+        {
+            "type": "type",
+            "value": "global"
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        }
+    ]
+}
