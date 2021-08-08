@@ -1,0 +1,39 @@
+{
+    "tagName": "tr",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "Отсутствует."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Закрывающий тег может отсутствовать."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент tr представляет собой строку ячеек в таблице."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "Ноль или более элементов, поддерживающих td, th и скрипт."
+        },
+         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}

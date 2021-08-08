@@ -1,0 +1,39 @@
+{
+    "tagName": "title",
+    "structure": [
+        {
+            "type": "categories",
+            "value": [
+                "metadata content."
+            ]
+        },
+        {
+            "type": "tag_omission",
+            "value": ["Открывающий и закрывающий теги обязательны."]
+        },
+        {
+            "type": "description",
+            "value": [
+                "Элемент title представляет заголовок или имя документа."
+            ]
+        },
+        {
+            "type": "content_model",
+            "value": "Текст, не являющийся межэлементным пробелом."
+        },
+         {
+            "type": "fullDescription",
+            "value": true
+        },
+        {
+            "type": "content_attributes",
+            "value": {
+                "global_attributes": true
+            }
+        },
+        {
+            "type": "example",
+            "value": false
+        }
+    ]
+}
