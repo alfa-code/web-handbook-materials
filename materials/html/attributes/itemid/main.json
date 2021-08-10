@@ -1,0 +1,24 @@
+{
+    "name": "itemid",
+    "structure": [
+        {
+            "type": "description",
+            "value": "Атрибут itemid определяет уникальный глобальный идентификатор элемента для микроданных."
+        },
+        {
+            "type": "values",
+            "value": {
+                "description": "",
+                "values":  []
+            }
+        },
+        {
+            "type": "type",
+            "value": "global"
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        }
+    ]
+}
