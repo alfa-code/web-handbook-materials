@@ -1,0 +1,24 @@
+{
+    "name": "itemscope",
+    "structure": [
+        {
+            "type": "description",
+            "value": "Атрибут itemscope — это логический атрибут, который сообщает любой машине, которая читает наш документ, что на этой странице есть Microdata, и задаёт область действия словаря, заданного атрибутом itemtype, в структуре данных."
+        },
+        {
+            "type": "values",
+            "value": {
+                "description": "",
+                "values":  []
+            }
+        },
+        {
+            "type": "type",
+            "value": "global"
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        }
+    ]
+}
