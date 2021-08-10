@@ -1,0 +1,24 @@
+{
+    "name": "itemtype",
+    "structure": [
+        {
+            "type": "description",
+            "value": "Атрибут itemtype указывает адрес словаря, который будет применяться для определения свойств элемента в структуре данных."
+        },
+        {
+            "type": "values",
+            "value": {
+                "description": "",
+                "values":  []
+            }
+        },
+        {
+            "type": "type",
+            "value": "global"
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        }
+    ]
+}
