@@ -1,0 +1,24 @@
+{
+    "name": "style",
+    "structure": [
+        {
+            "type": "description",
+            "value": "Атрибут style применяется для определения стиля элемента с помощью правил CSS."
+        },
+        {
+            "type": "values",
+            "value": {
+                "description": "",
+                "values":  []
+            }
+        },
+        {
+            "type": "type",
+            "value": "global"
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        }
+    ]
+}
