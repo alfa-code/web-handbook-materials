@@ -1,0 +1,24 @@
+{
+    "name": "itemref",
+    "structure": [
+        {
+            "type": "description",
+            "value": "Атрибут itemref предоставляет список идентификаторов элементов, которые содержат дополнительные свойствами в других местах документа."
+        },
+        {
+            "type": "values",
+            "value": {
+                "description": "",
+                "values":  []
+            }
+        },
+        {
+            "type": "type",
+            "value": "global"
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        }
+    ]
+}
