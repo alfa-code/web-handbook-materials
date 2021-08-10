@@ -1,0 +1,24 @@
+{
+    "name": "nonce",
+    "structure": [
+        {
+            "type": "description",
+            "value": "nonce является атрибутом содержания определения криптографического одноразового номера."
+        },
+        {
+            "type": "values",
+            "value": {
+                "description": "",
+                "values":  []
+            }
+        },
+        {
+            "type": "type",
+            "value": "global"
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        }
+    ]
+}
