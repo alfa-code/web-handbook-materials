@@ -1,0 +1,24 @@
+{
+    "name": "itemprop",
+    "structure": [
+        {
+            "type": "description",
+            "value": "Атрибут itemprop используется для добавления свойств словаря микроданных к элементу."
+        },
+        {
+            "type": "values",
+            "value": {
+                "description": "",
+                "values":  []
+            }
+        },
+        {
+            "type": "type",
+            "value": "global"
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        }
+    ]
+}
