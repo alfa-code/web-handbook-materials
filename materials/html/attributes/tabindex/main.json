@@ -1,0 +1,24 @@
+{
+    "name": "tabindex",
+    "structure": [
+        {
+            "type": "description",
+            "value": "Атрибут tabindex определяет последовательность перехода между ссылками при нажатии на кнопку tab."
+        },
+        {
+            "type": "values",
+            "value": {
+                "description": "",
+                "values":  []
+            }
+        },
+        {
+            "type": "type",
+            "value": "global"
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        }
+    ]
+}
