@@ -93,7 +93,11 @@
         "name": "translate"
     },
     {
-        "type": "other",
+        "type": "unique",
         "name": "target"
+    },
+    {
+        "type": "event",
+        "name": "onafterprint"
     }
 ]
