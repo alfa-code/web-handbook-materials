@@ -1,0 +1,33 @@
+{
+    "name": "spellcheck",
+    "structure": [
+        {
+            "type": "description",
+            "value": "Указывает браузеру проверять или нет правописание и грамматику в тексте."
+        },
+        {
+            "type": "values",
+            "value": {
+                "description": "Используйте данные значения атрибута чтобы переопределить поведение при переходе по ссылке.",
+                "values":  [
+                    {
+                        "name": "_true",
+                        "meaning": "Включает режим проверки правописания."
+                    },
+                    {
+                        "name": "_false",
+                        "meaning": "Отключает проверку."
+                    },
+                ]
+            }
+        },
+        {
+            "type": "type",
+            "value": "global"
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        }
+    ]
+}

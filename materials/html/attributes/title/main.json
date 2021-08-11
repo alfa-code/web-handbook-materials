@@ -1,0 +1,24 @@
+{
+    "name": "title",
+    "structure": [
+        {
+            "type": "description",
+            "value": "Описывает содержимое элемента в виде всплывающей подсказки, которая появляется при наведении курсора на элемент."
+        },
+        {
+            "type": "values",
+            "value": {
+                "description": "",
+                "values":  []
+            }
+        },
+        {
+            "type": "type",
+            "value": "global"
+        },
+        {
+            "type": "fullDescription",
+            "value": true
+        }
+    ]
+}
